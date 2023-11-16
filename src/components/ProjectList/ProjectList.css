@@ -1,0 +1,11 @@
+.project-list {
+    column-count: 3;
+    column-gap: 10px;
+    max-width: 1200px;
+    margin: auto;
+
+}
+
+.project-list-item {
+    width: 100%;
+}
